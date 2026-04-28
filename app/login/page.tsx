@@ -88,7 +88,7 @@ export default function LoginPage() {
 
         {/* Google butonu */}
         <a
-          href="http://localhost:8000/api/auth/google"
+          href="https://task-flow-backend-project-production.up.railway.app/api/auth/google"
           className="w-full flex items-center justify-center gap-3 border border-slate-200 py-3.5 rounded-xl hover:bg-slate-50 transition-all text-sm font-semibold text-slate-700 active:scale-[0.98]"
         >
           <svg width="18" height="18" viewBox="0 0 18 18">
